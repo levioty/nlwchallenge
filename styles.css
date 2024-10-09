@@ -11,7 +11,7 @@ ul {
 body {
     background-image: url(./assets/bg.jpg);
     background-position: top center;
-    background-size: 200vh auto;
+    background-size: 200vh;
     background-repeat: no-repeat;
     background-color: #080404;
 }
